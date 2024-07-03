@@ -267,7 +267,7 @@
     var settings = {
       "async": true,
       "crossDomain": true,
-      "url": "/api/sunshine/events?identifier=support:user_id:" + user_id,
+      "url": `/api/v2/users/${user_id}/events`,
       "method": "GET",
       "headers": {
         "content-type": "application/json"
