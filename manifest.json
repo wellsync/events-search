@@ -1,9 +1,9 @@
 {
   "name": "Events Viewer App",
   "author": {
-    "name": "Romain Rothier",
-    "email": "rrothier@zendesk.com",
-    "url": ""
+    "name": "WellSync",
+    "email": "support@wellsync.com",
+    "url": "https://wellsync.com"
   },
   "defaultLocale": "en",
   "private": true,
